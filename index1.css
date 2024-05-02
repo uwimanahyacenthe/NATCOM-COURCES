@@ -1,0 +1,45 @@
+*{
+	background-color: blueviolet;
+}
+.big-circle{
+	width: 330px;
+	height: 330px;
+	border-radius: 50%;
+	border: 2px solid black;
+	margin: 0 auto;
+	margin-left: 400px;
+	 left: 0;
+	 right: 0;
+	 top: 0;
+	 bottom: 0;
+	 position: absolute;
+
+
+}
+.circle{
+width: 30px;
+height: 30px;
+border: 1px solid black;
+margin: auto;
+	 left: 0;
+	 right: 0;
+	 top: 0;
+	 bottom: 0;
+	 position: absolute;
+border-radius: 50%;
+overflow: hidden;
+-webkit-animation: circle 2s linear infinite;
+animation: circle 2s linear infinite;
+
+	 }
+	@-webkit-keyframes circle{
+		
+	 	0%{
+	 		transform:  rotate(0deg)translate(-165px)rotate(-360deg);
+	 	}
+	 	100%{
+	 		transform: rotate(360deg)translate(-165px) rotate(-360deg);
+	 	}
+	 	}
+
+	 

@@ -1,0 +1,109 @@
+*{
+   
+
+}
+body{
+    background-image: url(../image/back.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+   
+}
+.form{
+    width: 400px;
+    height: 480px;
+    background-color: blue;
+   margin: 6% auto;
+   position: relative;
+   padding: 5px;
+   overflow: hidden;
+}
+
+.input-group{
+    display: block;
+    top: 190px;
+    position: absolute;
+    width: 280px;
+   
+}
+.button-box{
+    width: 220px;
+    margin: 35px auto;
+    position: relative;
+    border-radius: 30px;
+    box-shadow: 0 0 20px 9px rgb(174, 23, 174);
+}
+.btnn{
+    padding: 10px 30px;
+    cursor: pointer;
+    background: transparent;
+    border: 0;
+    outline: none;
+    position: relative;
+}
+.icons{
+    margin: 5px auto;
+    text-align: center;
+    border-radius: 30px;
+    width: 220px;
+    height: 40px;
+    background:linear-gradient(to top,violet,blueviolet);
+
+}
+
+.icons i{
+    text-align: center;
+    font-size: 30px;
+    padding: 3px;
+    margin-top: 2px;
+}
+.icons i:hover{
+    color: azure;
+}
+.input-field{
+    width: 100%;
+    padding: 10px 0;
+    margin: 5px 0;
+    border-left: 0;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 2px solid black;
+    outline: none;
+    background: transparent;
+}
+.btn-submit{
+    width: 85%;
+    padding: 10px 30px;
+    cursor: pointer;
+    background: linear-gradient(to left,violet,blueviolet);
+    border: 0;
+    border-radius: 30px;
+    outline: none;
+}
+.check{
+    margin: 30px 10px 30px 0;
+
+
+
+}
+.span{
+    bottom: 64px;
+    font-size: 12px;
+    position: absolute;
+    color: black;
+    margin-left: 50px;
+}
+#btn{
+ position: absolute;
+ width: 120px;
+ height: 38px;
+ background-color: red;
+ border-radius: 30px;
+}
+#login{
+    left: 50px;
+}
+#register{
+    left: 550px;
+}

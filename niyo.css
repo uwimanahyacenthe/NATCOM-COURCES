@@ -1,0 +1,183 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #fff;
+    position: relative;
+    justify-content: ;
+    background-size: cover;
+    pac
+}
+.log{
+    width: 5%;
+    float: left;
+    margin: 10px 0 0 20px;
+    
+}
+.h1{
+    color: lightgreen;
+}
+    .menu{
+        line-height: 60px;
+    }
+    .menu ul{
+        list-style-type: none;
+        margin-left: 200px;
+    }
+    .menul{
+    padding: 1%;
+    font-weight: bold;
+    display: inline;
+    font-size: 15px;
+    
+    gap: -400px;
+    }
+    .ul1{
+display: flex;
+font-size: 30px;
+margin-left: 800px;
+margin-top: -60px;
+
+
+    }
+    a{
+        text-decoration: none;
+    }
+    .li{
+        margin-left: 20px;
+        background-color: rgb(5, 220, 239);
+        border-radius: 20px;
+        width: 85px;
+        color: #fff;
+        height: 30px;
+        
+    }
+    button{
+        border: none;
+        background: transparent;
+        cursor: pointer;
+        
+    }
+    button:hover{
+        color: antiquewhite;
+    }
+    .cont{
+        width: 600px;
+        padding: 10px;
+        margin: 159px;
+        margin-top: -300px;
+    }
+    .buto{
+        background-color: aqua;
+        width: 100px;
+        border-radius: 20px;
+        color: #fff;
+        height: 20px;
+
+    }
+    .img{
+       
+    }
+    .image{
+        width: 400px;
+        height: 300px;
+        background-image: url(image/st1.png);
+        background-size: cover;
+        margin-left: 600px;
+        margin-top: 40px;
+        border-radius: 20px;
+    }
+    .search{
+        background-image: url(image/back2.jpeg);
+        width: 700px;
+        margin: 2% auto;
+        height: 60px;
+        text-align: center;
+        background-size: cover;
+        margin-top: 200px;
+    }
+    .it{
+        background-color: aqua;
+        border: none;
+        width: 100px;
+        height: 30px;
+        border-radius: 20px;
+        margin-top: 10px;
+    }
+    .in{
+        margin-top: 10px;
+        width: 300px;
+        height: 30px;
+        position: relative;
+        border-radius: 20px;
+        border: none;
+    }
+    .adv{
+        width: 40%;
+        margin: 5% auto;
+        position: relative;
+        
+    }
+    .bra{
+        width: 50px;
+        height: 50px;
+        border-radius: 30px;
+
+    }
+    .brands{
+width: 80%;
+margin: 5% auto;
+display: flex;
+gap: 100px;
+
+    }
+    .brand-s{
+        margin-top: 80px;
+
+    }
+    .brand-a{
+margin-top: 120px;
+    }
+    h4{
+        background-color: cyan;
+   margin-bottom: 5px auto;
+   text-align: center;
+   height: 222px;
+
+    }
+    .nnn{
+        margin-left: 20px;
+        background-color: rgb(5, 220, 239);
+        border-radius: 20px;
+        width: 85px;
+        color: black;
+        height: 30px;
+        
+    }
+    .bb{
+        background-color:black;
+        display: flex;
+    }
+    .aaa{
+        margin-left: 50px;
+        color: white;
+
+    }
+    .sand{
+        background-color: black;
+        width: 100%;
+        height: 200px;
+
+    }
+    p{
+        color: white;
+    }
+    .icons{
+        margin-top: 20px;
+        margin-left: 30px;
+         text-align: center;
+    font-size: 30px;
+    padding: 5px;
+    margin-top: 1px;
+    }
